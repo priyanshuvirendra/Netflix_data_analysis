@@ -66,11 +66,11 @@ You’ll find charts like:
 
 ---
 
-### 📽️ [Download Full PPT Presentation](#)
+### 📽️ [Download Full PPT Presentation]- https://drive.google.com/file/d/1ZwscQb4Gip_xIjdTZg-SK_LUSLE62aiK/view?usp=drivesdk
 
 ---
 
 ## 🙌 Connect With Me
 
 📧 Email: bishakhakapur7@gmail.com 
-🔗 LinkedIn: [linkedin.com/in/yourprofile](#)
+🔗 LinkedIn: HTTPS://LINKEDIN.COM/IN/BISHAKHA-KAPUR-605181317
