@@ -55,16 +55,7 @@ You’ll find charts like:
 - **Expand Indian and regional content**  
 - **Collaborate with frequent directors/actors**  
 - **Balance mature and general audience content**
-
----
-
-## 🎯 Ideal For
-
-✅ Analytics Portfolios  
-✅ Internship Applications (Meesho, Swiggy, Zomato)  
-✅ SQL + Python + Visualization Showcases
-
----
+  ----
 
 ### 📽️ [Download Full PPT Presentation]- https://drive.google.com/file/d/1ZwscQb4Gip_xIjdTZg-SK_LUSLE62aiK/view?usp=drivesdk
 
