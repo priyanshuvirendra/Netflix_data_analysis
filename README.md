@@ -45,7 +45,7 @@ You’ll find charts like:
 - Indian Content Over the Years 🇮🇳  
 - Good vs Bad Sentiment 📑
 
-*(Located in `/charts` folder)* - https://drive.google.com/file/d/1S1igs1fYz4yfFABJBeUzZy_iCA3BgtaL/view?usp=sharing
+*(Located in `/charts` folder)* - (https://drive.google.com/file/d/1NKdzVHOZwL9Zem7Kvp9oZjqxixkgvGeW/view?usp=sharing)
 
 ---
 
@@ -57,11 +57,7 @@ You’ll find charts like:
 - **Balance mature and general audience content**
   ----
 
-### 📽️ [Download Full PPT Presentation]- https://drive.google.com/file/d/1ZwscQb4Gip_xIjdTZg-SK_LUSLE62aiK/view?usp=drivesdk
-
----
-
 ## 🙌 Connect With Me
 
-📧 Email: bishakhakapur7@gmail.com 
-🔗 LinkedIn: HTTPS://LINKEDIN.COM/IN/BISHAKHA-KAPUR-605181317
+📧 Email: priyanshuvirendr.csds@gmail.com 
+🔗 LinkedIn: HTTPS://LINKEDIN.COM/IN/priyanshu-virendra
